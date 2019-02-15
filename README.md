@@ -41,5 +41,5 @@ TIYI/
 
 ## 通知系について
 * 人体を検知して写真を撮影すると、その写真とともに事前に設定していたユーザに通知を行う
-  * mustはslack。wantでLINE。
+  * mustはslack。wantでLINEやメール。
 
